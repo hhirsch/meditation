@@ -1,3 +1,5 @@
+# Resources on Meditation
+
 - [Open Source Meditation Guide](http://www.starting-meditation.com/)
 - [Mindfulness for Wellbeing and Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)
 - [Open Mind App - Free Open Source Guided Meditations](https://openmindapp.org/)
